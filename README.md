@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-![Snake animation](https://github.com/Dino-Boooo/Dino-Boooo/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Dino-Boooo/Dino-Boooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
