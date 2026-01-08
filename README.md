@@ -29,13 +29,6 @@ My work sits at the intersection of **imaging systems, signal processing, and AI
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dino-Boooo&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
 ### 🌱 What I Value
 Clean systems · Interpretable models ·  
 Cross-disciplinary collaboration between **hardware, signals, and learning**
