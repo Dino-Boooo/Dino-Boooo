@@ -5,6 +5,9 @@
 </p>
 
 ---
+
+<img align="right" alt="Coding" width="300" src="assets/coding-cat.gif" />
+
 I build systems where **signals become images, images become data, and data becomes decisions**.  
 My work sits at the intersection of **imaging systems, signal processing, and AI-driven modeling**, with a focus on real-world healthcare and sensing applications.
 
