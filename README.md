@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Jen-Li Kao 👋</h2>
+<h2 align="center">Hi, I'm Molly Kao 👋</h2>
 
 <p align="center">
   <em>Medical Imaging · Computer Vision · Radar Sensing · Machine Learning</em>
