@@ -6,17 +6,26 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="assets/coding-cat.gif" />
+<img align="right" alt="Coding" width="240" src="assets/coding-cat.gif" />
 
-I build intelligent systems that **perceive and understand people**,  
-from raw signals to learning and decision-making.  
-My work spans **mmWave sensing, medical imaging, and 3D human motion**.
+<div align="justify">
 
-🔍 Research interests:
-- **Sensing & Signal Processing**: reliable information from noisy signals
-- **Computer Vision & 3D Perception**: human motion from video and 3D
-- **Human-Centered Systems**: adapting to individual variation
-- **Multimodal Learning**: fusing sensing, vision, and language
+I build intelligent systems that **perceive and understand people**, from raw signals to machine learning and decision-making. My work spans **millimeter-wave sensing, medical imaging, and 3D human motion analysis**, combining sensing, signal processing, computer vision, and machine learning.
+
+</div>
+
+<br clear="right"/>
+
+🔍 **Research interests**
+
+- **Intelligent Sensing & Signal Processing**  
+  Extracting reliable information from indirect and noisy measurements
+- **Computer Vision & 3D Perception**  
+  Understanding human motion and behavior from video and 3D data
+- **Adaptive & Human-Centered Systems**  
+  Developing systems that account for individual variation and changing measurements
+- **Multimodal Learning**  
+  Combining heterogeneous sensing, visual, and language information for robust inference
 
 ---
 
