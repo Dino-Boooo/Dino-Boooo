@@ -18,12 +18,12 @@ I build intelligent systems that **perceive and understand people**, from raw si
 
 <table>
   <tr>
-    <td width="50%"><b>Intelligent Sensing &amp; Signal Processing</b><br/>Extracting reliable information from indirect and noisy measurements</td>
-    <td width="50%"><b>Computer Vision &amp; 3D Perception</b><br/>Understanding human motion and behavior from video and 3D data</td>
+    <td width="50%">•&nbsp;<b>Intelligent Sensing &amp; Signal Processing</b><br/>Extracting reliable information from indirect and noisy measurements</td>
+    <td width="50%">•&nbsp;<b>Computer Vision &amp; 3D Perception</b><br/>Understanding human motion and behavior from video and 3D data</td>
   </tr>
   <tr>
-    <td width="50%"><b>Adaptive &amp; Human-Centered Systems</b><br/>Systems that adapt to individual variation and changing measurements</td>
-    <td width="50%"><b>Multimodal Learning</b><br/>Combining sensing, vision, and language for robust inference</td>
+    <td width="50%">•&nbsp;<b>Adaptive &amp; Human-Centered Systems</b><br/>Systems that adapt to individual variation and changing measurements</td>
+    <td width="50%">•&nbsp;<b>Multimodal Learning</b><br/>Combining sensing, vision, and language for robust inference</td>
   </tr>
 </table>
 
