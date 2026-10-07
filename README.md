@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="244" src="assets/coding-cat-v4.gif" />
+<img align="right" alt="Coding" width="238" src="assets/coding-cat-v5.gif" />
 
 <div align="justify">
 
@@ -21,9 +21,9 @@ I build intelligent systems that **perceive and understand people**, from raw si
 - **Computer Vision & 3D Perception**  
   Understanding human motion and behavior from video and 3D data
 - **Adaptive & Human-Centered Systems**  
-  Developing systems that account for individual variation and changing measurements
+  Systems that adapt to individual variation and changing measurements
 - **Multimodal Learning**  
-  Combining heterogeneous sensing, visual, and language information for robust inference
+  Combining sensing, vision, and language for robust inference
 
 ---
 
