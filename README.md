@@ -1,21 +1,21 @@
 <h2 align="center">Hi, I'm Molly Kao 👋</h2>
 
 <p align="center">
-  <em>Medical Imaging · Computer Vision · Intelligent Sensing · Multimodal AI</em>
+  <em>Intelligent Sensing · Signal Processing · Computer Vision · Machine Learning</em>
 </p>
 
 ---
 
 <img align="right" alt="Coding" width="300" src="assets/coding-cat.gif" />
 
-I build intelligent systems that **perceive and understand people**, from the raw signal all the way to a decision.  
-My work spans **millimeter-wave radar, medical imaging, and multi-view 3D reconstruction of human motion**, bringing together sensing, signal processing, computer vision, and machine learning.
+I build intelligent systems that **perceive and understand people**, from raw signals to machine learning and decision-making.  
+My work spans **millimeter-wave sensing, medical imaging, and 3D human motion analysis**, combining sensing, signal processing, computer vision, and machine learning.
 
 🔍 Research interests:
-- **Medical Imaging & Sensing**: turning radar and imaging signals into reliable information about the body
-- **Computer Vision for Human Understanding**: recovering human motion and behavior from video and 3D
-- **Language & Vision Models**: using LLMs and VLMs to reason over multimodal data
-- **End-to-End AI Systems**: from hardware and data acquisition to deployable models
+- **Intelligent Sensing & Signal Processing**: extracting reliable information from indirect and noisy measurements
+- **Computer Vision & 3D Perception**: understanding human motion and behavior from video and 3D data
+- **Adaptive & Human-Centered Systems**: developing systems that account for individual variation and changing measurements
+- **Multimodal Learning**: combining heterogeneous sensing and visual information for robust inference
 
 🌐 Projects & publications: **[kaojenli.github.io](https://kaojenli.github.io)**
 
@@ -28,7 +28,6 @@ My work spans **millimeter-wave radar, medical imaging, and multi-view 3D recons
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
@@ -37,7 +36,7 @@ My work spans **millimeter-wave radar, medical imaging, and multi-view 3D recons
 ---
 
 ### 🌱 What I Value
-Reliable systems · Interpretable models · Honest evaluation ·  
+Reliable systems · Rigorous evaluation · Interpretable models ·  
 Cross-disciplinary work that connects **hardware, signals, and learning**
 
 ---
