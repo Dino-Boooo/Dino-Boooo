@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="190" src="assets/coding-cat-v3.gif" />
+<img align="right" alt="Coding" width="244" src="assets/coding-cat-v4.gif" />
 
 <div align="justify">
 
