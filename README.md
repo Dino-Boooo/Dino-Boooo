@@ -14,8 +14,6 @@ I build intelligent systems that **perceive and understand people**, from raw si
 
 </div>
 
-<br clear="right"/>
-
 🔍 **Research interests**
 
 - **Intelligent Sensing & Signal Processing**  
