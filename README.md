@@ -4,7 +4,7 @@
   <em>Intelligent Sensing · Signal Processing · Computer Vision · Machine Learning</em>
 </p>
 
-<img src="assets/divider.svg" width="100%" height="1" alt=""/>
+---
 
 <img align="right" alt="Coding" width="238" src="assets/coding-cat-v14.gif" />
 
@@ -27,7 +27,7 @@ I build intelligent systems that **perceive and understand people**, from raw si
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" height="1" alt=""/>
+---
 
 🛠️ **Tech Stack**<br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32" height="32" alt="C"/>
@@ -39,13 +39,13 @@ I build intelligent systems that **perceive and understand people**, from raw si
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" height="32" alt="Linux"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" height="32" alt="Git"/>
 
-<img src="assets/divider.svg" width="100%" height="1" alt=""/>
+---
 
 🌱 **What I Value**  
 Reliable systems · Rigorous evaluation · Interpretable models ·  
 Cross-disciplinary work that connects **hardware, signals, and learning**
 
-<img src="assets/divider.svg" width="100%" height="1" alt=""/>
+---
 
 📫 **Connect with Me**  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaojenli@gmail.com)
