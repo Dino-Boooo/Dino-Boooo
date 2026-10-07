@@ -8,16 +8,15 @@
 
 <img align="right" alt="Coding" width="300" src="assets/coding-cat.gif" />
 
-I build intelligent systems that **perceive and understand people**, from raw signals to machine learning and decision-making.  
-My work spans **millimeter-wave sensing, medical imaging, and 3D human motion analysis**, combining sensing, signal processing, computer vision, and machine learning.
+I build intelligent systems that **perceive and understand people**,  
+from raw signals to learning and decision-making.  
+My work spans **mmWave sensing, medical imaging, and 3D human motion**.
 
 🔍 Research interests:
-- **Intelligent Sensing & Signal Processing**: extracting reliable information from indirect and noisy measurements
-- **Computer Vision & 3D Perception**: understanding human motion and behavior from video and 3D data
-- **Adaptive & Human-Centered Systems**: developing systems that account for individual variation and changing measurements
-- **Multimodal Learning**: combining heterogeneous sensing and visual information for robust inference
-
-🌐 Projects & publications: **[kaojenli.github.io](https://kaojenli.github.io)**
+- **Sensing & Signal Processing**: reliable information from noisy signals
+- **Computer Vision & 3D Perception**: human motion from video and 3D
+- **Human-Centered Systems**: adapting to individual variation
+- **Multimodal Learning**: fusing sensing, vision, and language
 
 ---
 
@@ -46,6 +45,6 @@ Cross-disciplinary work that connects **hardware, signals, and learning**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaojenli@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenlikao/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dino-Boooo)
+[![Website](https://img.shields.io/badge/Website-4A5568?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaojenli.github.io)
 
 </div>
