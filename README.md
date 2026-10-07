@@ -29,31 +29,25 @@ I build intelligent systems that **perceive and understand people**, from raw si
 
 ---
 
-#### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32" height="32" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="32" height="32" alt="MATLAB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32" height="32" alt="PyTorch"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="32" height="32" alt="OpenCV"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" height="32" alt="Linux"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" height="32" alt="Git"/>
-</p>
+🛠️ **Tech Stack**<br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32" height="32" alt="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="32" height="32" alt="MATLAB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32" height="32" alt="PyTorch"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="32" height="32" alt="OpenCV"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" height="32" alt="Linux"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" height="32" alt="Git"/>
 
 ---
 
-#### 🌱 What I Value
+🌱 **What I Value**  
 Reliable systems · Rigorous evaluation · Interpretable models ·  
 Cross-disciplinary work that connects **hardware, signals, and learning**
 
 ---
 
-#### 📫 Connect with Me
-<div align="left">
-
+📫 **Connect with Me**  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaojenli@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenlikao/)
 [![Website](https://img.shields.io/badge/Website-4A5568?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaojenli.github.io)
-
-</div>
