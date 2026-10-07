@@ -1,20 +1,23 @@
 <h2 align="center">Hi, I'm Molly Kao 👋</h2>
 
 <p align="center">
-  <em>Medical Imaging · Computer Vision · Radar Sensing · Machine Learning</em>
+  <em>Medical Imaging · Computer Vision · Intelligent Sensing · Multimodal AI</em>
 </p>
 
 ---
 
 <img align="right" alt="Coding" width="300" src="assets/coding-cat.gif" />
 
-I build systems where **signals become images, images become data, and data becomes decisions**.  
-My work sits at the intersection of **imaging systems, signal processing, and AI-driven modeling**, with a focus on real-world healthcare and sensing applications.
+I build intelligent systems that **perceive and understand people**, from the raw signal all the way to a decision.  
+My work spans **millimeter-wave radar, medical imaging, and multi-view 3D reconstruction of human motion**, bringing together sensing, signal processing, computer vision, and machine learning.
 
-🔍 Actively seeking **research opportunities** in:
-- Medical Imaging & Medical Devices
-- Computer Vision & Machine Learning
-- Radar / Intelligent Sensing Systems
+🔍 Research interests:
+- **Medical Imaging & Sensing**: turning radar and imaging signals into reliable information about the body
+- **Computer Vision for Human Understanding**: recovering human motion and behavior from video and 3D
+- **Language & Vision Models**: using LLMs and VLMs to reason over multimodal data
+- **End-to-End AI Systems**: from hardware and data acquisition to deployable models
+
+🌐 Projects & publications: **[kaojenli.github.io](https://kaojenli.github.io)**
 
 ---
 
@@ -34,8 +37,8 @@ My work sits at the intersection of **imaging systems, signal processing, and AI
 ---
 
 ### 🌱 What I Value
-Clean systems · Interpretable models ·  
-Cross-disciplinary collaboration between **hardware, signals, and learning**
+Reliable systems · Interpretable models · Honest evaluation ·  
+Cross-disciplinary work that connects **hardware, signals, and learning**
 
 ---
 
@@ -47,17 +50,3 @@ Cross-disciplinary collaboration between **hardware, signals, and learning**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dino-Boooo)
 
 </div>
-<!--
-**Dino-Boooo/Dino-Boooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
